@@ -1,0 +1,4 @@
+https://github.com/sandyhabala/MyQoutes_Habala.git
+
+Note:
+"I had a problem pushing a file to my first GitHub repository because I accidentally changed the settings. Due to this, I used an alternative method to upload the link to my GitHub repository. I'm sorry, sir." 
